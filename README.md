@@ -1,4 +1,1 @@
-
-<iframe id="if1" width="100%" height="254" style="visibility:visible" src="https://docs.google.com/presentation/d/1EzLLWgQmLybTnuWsqm33NfIHkPFk1giKoO94X4mZZv4/view?usp=sharing"></iframe>
-
-https://docs.google.com/presentation/d/1EzLLWgQmLybTnuWsqm33NfIHkPFk1giKoO94X4mZZv4/view?usp=sharing
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTQlcfPBNIJi5Gro4obcR-YVhCiWcBjWmX2h3p7zq_bJEJ_NCQKierbaKU3boD2r-H7qHQ87vBnpQnE/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
